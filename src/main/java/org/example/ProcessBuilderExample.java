@@ -33,4 +33,3 @@ public class ProcessBuilderExample {
         }
     }
 }
-System.out.println("Deneme1")
